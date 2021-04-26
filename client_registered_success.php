@@ -45,7 +45,7 @@
                     <i class="fa fa-bars"></i>
                     </button>
                 <a class="navbar-brand page-scroll" href="index.php">
-                   Car Rentals </a>
+                   Cars Booking SU </a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
 

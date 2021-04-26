@@ -155,7 +155,7 @@ a:hover {
 }
 
 .intro .intro-body .brand-heading {
-  font-size: 40px;
+  font-size: 20px;
 }
 
 .intro .intro-body .intro-text {
@@ -168,11 +168,11 @@ a:hover {
     padding: 0;
   }
   .intro .intro-body .brand-heading {
-    font-size: 98px;
+    font-size: 70px;
     margin-top: 90px;
     margin-bottom: 20px;
-    border-top: 4px solid rgb(0, 0, 0);
-    border-bottom: 4px solid rgb(0, 0, 0);
+    border-top: 4px solid rgb(255, 255, 255);
+    border-bottom: 4px solid rgb(255, 255, 255);
     display: inline-block;
     padding: 10px 0;
   }
@@ -462,4 +462,8 @@ h3 {
     -ms-transform: translateY(0);
     transform: translateY(0);
   }
+}
+
+.txt{
+  font-size: 500;
 }

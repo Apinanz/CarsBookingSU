@@ -13,7 +13,7 @@ $conn = Connect();
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/user.css?v=1001">
+    <link rel="stylesheet" href="assets/css/user.css?v=1006">
     
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
@@ -113,14 +113,15 @@ $conn = Connect();
         <header class="intro">
             <div class="intro-body">
                 <div class="container">
+                <img src="assets/img/logo.png" class="img-fluid" alt="..." style="width:1000px ; height: 400px;">
                     <div class="row">
+                        <br>
                         <div class="col-md-8 col-md-offset-2">
-                            <h1 class="brand-heading" style="color: black">Car Booking Silpakorn</h1>
-                            <p class="intro-text">
+                            <p class="intro-text" style="color: White">
                                 ระบบจำลองจอง/เช่า รถออนไลน์ ในรายวิชา 520221 ระบบฐานข้อมูล
-                            </p>
-                            <a href="#sec2" class="btn btn-primary">
-                                <i class="fa fa-angle-double-down animated"></i>
+                            </p><br>
+                            <a href="#sec2">
+                            <button type="button" class="btn btn-light">WELCOME</button>
                             </a>
                         </div>
                     </div>
